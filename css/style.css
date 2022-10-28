@@ -1,0 +1,262 @@
+.header .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.logo .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+
+.built .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.working .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.blog .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.signup .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.terms .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+
+.header
+{
+	 background-color:black;
+	 height:75px;
+	 
+	 
+}
+.header .header-fc
+{ 
+	display:flex;
+	justify-content:space-between;
+
+}
+.header .header-fc .header-logo
+{
+	background-color:beige;
+	width:169px;
+	height:68px;
+	margin-top:5px;
+}
+.header .header-fc .header-navi
+{
+	background-color:beige;
+	width:473px;
+	height:68px;
+	margin-top:5px;
+}
+
+.logo
+{
+	background-color:gray;
+	height:536px;
+	
+}
+
+.logo .logo-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:flex-start;
+	flex-wrap:wrap;
+	
+}
+
+
+.logo .logo-fc .logotext
+{
+        text-align:left;
+		margin-top:150px;
+		width:100%;
+}
+.logo .logo-fc .logoboxa
+{
+
+	background:white;
+	height:50px;
+	width:151px;
+	margin-top:150px;
+}
+
+.logo .logo-fc .logoboxb
+{
+	background:navy;
+	height:50px;
+	width:151px;
+	margin-top:150px;
+}
+
+.built 
+{
+	background-color:lightyellow;
+	height:496px;
+}
+.built .built-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.built .built-fc .builttext
+{
+	text-align:left;
+	width:40%;
+}
+.built .built-fc .builtboxa
+{
+background:lightblue;
+	height:150px;
+	width:350px;
+	margin-top:10px;
+}
+.built .built-fc .builtboxb
+{
+    background:lightblue;
+	height:150px;
+	width:350px;
+	margin-top:10px;
+
+}
+.built .built-fc .builtboxc
+{
+		background:lightblue;
+	height:150px;
+	width:350px;
+	margin-top:10px;
+		margin-left:40%;
+}
+.built .built-fc .builtboxd
+{
+		background:lightblue;
+	height:150px;
+	width:350px;
+	margin-top:10px;
+		;
+}
+.working
+{
+	background:pink;
+	height:386px;
+}
+.working .working-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.working .working-fc .worktext
+{
+	text-align:center;
+	margin-top:170px;
+}
+
+
+.blog
+{
+	background-color:beige;
+	height:700px;
+}
+.blog .blog-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.blog .blog-fc .blogtext
+{
+	text-align:center;
+	width:100%;
+	margin-top:10px;
+}
+.blog .blog-fc .bloga
+{
+	background:lightblue;
+	height:499px;
+	width:378px;
+	margin-top:10px;
+}
+.blog .blog-fc .blogb
+{
+background:lightblue;
+	height:499px;
+	width:378px;
+	margin-top:10px;
+}
+.blog .blog-fc .blogc
+{
+background:lightblue;
+	height:499px;
+	width:378px;
+	margin-top:10px;
+}
+
+.signup
+{
+	 background-color:skyblue;
+	 height:165px;
+	 
+	 
+}
+.signup .signup-fc
+{ 
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+}
+.signup .signup-fc .signtext
+{
+	text-align:center;
+	margin-top:30px;
+}
+.signup .signup-fc .signbox
+{
+	background-color:navy;
+	width:300px;
+	height:55px;
+	margin-top:30px;
+}
+
+.terms
+{
+	 background-color:beige;
+	 height:80px;
+	 
+	 
+}
+.terms .terms-fc
+{ 
+	display:flex;
+	justify-content:space-between;
+}
+.terms .terms-fc .leftterm
+{
+	background-color:black;
+	width:250px;
+	height:60px;
+	margin-top:5px;
+}
+.terms .terms-fc .rightterm
+{
+	background-color:black;
+	width:300px;
+	height:60px;
+	margin-top:5px;
+}
